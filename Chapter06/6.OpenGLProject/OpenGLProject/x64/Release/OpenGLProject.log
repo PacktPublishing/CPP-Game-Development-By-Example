@@ -1,0 +1,9 @@
+﻿  LightRenderer.cpp
+d:\myrepos\c-book-repo\chapters\reviews\second review\reviewed\7.openglproject\openglproject\lightrenderer.h(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\myrepos\c-book-repo\chapters\reviews\second review\reviewed\7.openglproject\openglproject\lightrenderer.cpp(64): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Generating code
+  3 of 473 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenGLProject.vcxproj -> D:\myRepos\c-book-repo\Chapters\reviews\second review\reviewed\7.OpenGLProject\x64\Release\OpenGLProject.exe
