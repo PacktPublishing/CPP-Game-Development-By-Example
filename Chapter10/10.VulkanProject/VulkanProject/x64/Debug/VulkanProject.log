@@ -1,0 +1,11 @@
+﻿  DrawCommandBuffer.cpp
+  Renderpass.cpp
+  RenderTarget.cpp
+  Source.cpp
+  SwapChain.cpp
+  Tools.cpp
+  VulkanContext.cpp
+  Generating Code...
+d:\myrepos\c-book-repo\chapters\reviews\second review\reviewed\11. vulkanproject\vulkanproject\swapchain.cpp(129): warning C4715: 'SwapChain::chooseSwapPresentMode': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  VulkanProject.vcxproj -> D:\myRepos\c-book-repo\Chapters\reviews\second review\reviewed\11. VulkanProject\x64\Debug\VulkanProject.exe
