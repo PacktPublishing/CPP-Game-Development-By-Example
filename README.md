@@ -2,7 +2,7 @@
 
 # 
 
-<a href="https://www.packtpub.com/web-development/c-game-development-example?utm_source=Github&utm_medium=Repository&utm_campaign=9781789535303"><img src="https://www.packtpub.com/sites/default/files/9781789535303_cover.png" alt="CPP-Game-Development-By-Example" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/web-development/c-game-development-example"><img src="https://www.packtpub.com/sites/default/files/9781789535303_cover.png" alt="CPP-Game-Development-By-Example" height="256px" align="right"></a>
 
 This is the code repository for [CPP-Game-Development-By-Example](https://www.packtpub.com/web-development/c-game-development-example?utm_source=Github&utm_medium=Repository&utm_campaign=9781789535303), published by Packt.
 
