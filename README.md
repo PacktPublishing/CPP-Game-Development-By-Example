@@ -1,5 +1,5 @@
 # CPP-Game-Development-By-Example
-C++ Game Development By Example, published by Packt
+
 # 
 
 <a href="https://www.packtpub.com/web-development/c-game-development-example?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="" height="256px" align="right"></a>
@@ -9,7 +9,11 @@ This is the code repository for [](https://www.packtpub.com/web-development/c-ga
 **Learn to build games and graphics with SFML, OpenGL, and Vulkan using C++ programming**
 
 ## What is this book about?
-0
+Understand shaders and how to write a basic vertex and fragment shader
+Build a Visual Studio project and add SFML to it
+Discover how to create sprite animations and a game character class
+Add sound effects and background music to your game
+Grasp how to integrate Vulkan into Visual Studio
 
 This book covers the following exciting features:
 
