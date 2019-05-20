@@ -50,9 +50,9 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789535303_ColorImages.pdf).
 
 ### Related products
-* Unreal Engine 4.x Scripting with C++ Cookbook - Second Edition  [[Packt]](https://prod.packtpub.com/in/application-development/qt5-c-gui-programming-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789803829)
+* Unreal Engine 4.x Scripting with C++ Cookbook - Second Edition  [[Packt]](https://prod.packtpub.com/in/application-development/qt5-c-gui-programming-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789809509)
 
-* Qt5 C++ GUI Programming Cookbook - Second Edition  [[Packt]](https://prod.packtpub.com/in/game-development/unreal-engine-4x-scripting-c-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789809509)
+* Qt5 C++ GUI Programming Cookbook - Second Edition  [[Packt]](https://prod.packtpub.com/in/game-development/unreal-engine-4x-scripting-c-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789803829)
 
 
 ## Get to Know the Author
